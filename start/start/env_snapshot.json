@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-11-15_22:13:29",
+  "env": {
+    "PATH": "/bin:/sbin:/usr/bin:/usr/sbin:/usr/share/bin:/usr/share/sbin:/usr/local/bin:/usr/local/sbin:/system/bin:/system/xbin:/data/user/0/com.foxdebug.acodefree/files/local/bin",
+    "SHELL": "/bin/sh"
+  },
+  "backend": {"pid": null, "port": 5253},
+  "frontend": {"pid": null, "port": 3000}
+}

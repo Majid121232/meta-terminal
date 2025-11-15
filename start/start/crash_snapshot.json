@@ -1,0 +1,5 @@
+{
+  "timestamp": "2025-11-15_22:11:21",
+  "backend":  {"pid": 31100, "state": "up", "health": "fail"},
+  "frontend": {"pid": 31102, "state": "up", "health": "fail"}
+}

@@ -1,0 +1,5 @@
+{
+  "timestamp": "2025-11-15_22:20:31",
+  "backend":  {"pid": 7790, "port": 5253},
+  "frontend": {"pid": 7796, "port": 3000}
+}

@@ -1,3 +1,5 @@
-#!/usr/bin/env bash
-# start_ai.sh - auto generated script
-echo "Running start_ai.sh ..."
+#!/usr/bin/env sh
+set -eu
+echo "[i] Starting AI agent (manager)"
+./start/start_agents.sh
+echo "[✔] AI agent online"
